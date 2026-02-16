@@ -1,3 +1,18 @@
+# IntelliJ files
+.idea/
+*.iml
+out/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Mac files
+.DS_Store^X
+
+
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
