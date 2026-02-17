@@ -2,7 +2,7 @@ package com.studentapp;
 
 import java.util.*;
 
-public class MainFinal {
+public class Main {
 
     private static List<Student> studentList;
     private static Scanner scanner;
